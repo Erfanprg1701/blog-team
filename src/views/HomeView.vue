@@ -1,16 +1,10 @@
-<script script>
-
+<script setup>
+import Header from "../components/Header.vue"
 </script>
 
 <template>
   <div class="home">
-<p>
-  test
-</p>
-
-<p>
-  test2
-</p>
+<Header/>
   </div>
 </template>
 
