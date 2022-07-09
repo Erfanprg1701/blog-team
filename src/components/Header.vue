@@ -18,6 +18,5 @@ import Nav from "../components/Nav.vue"
   background-size: cover;
   background-repeat:no-repeat;
 
-  margin-bottom: 1000px;
 }
 </style>
