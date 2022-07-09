@@ -7,6 +7,10 @@
 <p>
   test
 </p>
+
+<p>
+  test2
+</p>
   </div>
 </template>
 
